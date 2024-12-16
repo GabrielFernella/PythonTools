@@ -1,0 +1,7 @@
+
+host:${HOST}
+password:${PASSWORD}
+path=${PATH}
+enabled=${ENABLED:true}
+
+
